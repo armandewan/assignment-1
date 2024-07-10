@@ -1,7 +1,11 @@
 .navbar{
     display: flex;
     justify-content: space-between;
+    padding: 6px;
+   
+
 }
+
 .text-center{
     text-align: center;
 }
@@ -33,4 +37,8 @@ article img{
 }
 .diff-flex{
     flex-direction: row-reverse;
+}
+.current-target{
+    display: flex;
+    justify-content: space-evenly;
 }
