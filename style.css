@@ -42,3 +42,8 @@ article img{
     display: flex;
     justify-content: space-evenly;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px;
+}
